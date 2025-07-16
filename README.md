@@ -2,17 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Parth+Srivastava;Cybersecurity+%7C+Web+Dev+Enthusiast;Welcome+to+my+GitHub!+💻" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Gif" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="65%">
+      
+### 👋 Hi, I'm Parth Srivastava
 
-<h1 align="center"><b>Hi, I'm Parth Srivastava 👋</b></h1>
+🎓 B.Tech CSE (Cyber Security)  
+🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Web Developer  
+🔍 Passionate about Hacking, Recon, SOC, and Building Cool Things  
+🔐 Love understanding systems—how they work, break, and can be secured.
 
-<p align="center">
-  🎓 B.Tech CSE (Cyber Security) | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Web Developer  
-  <br>
-  🔍 Passionate about Hacking, Security Research & Building Useful Tools
-</p>
+  </td>
+  <td width="35%">
+    <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="250" alt="Hacking Animation" />
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -33,7 +39,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,bash,linux,vscode,github" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/Nmap-00599C?style=flat&logoColor=white&logo=gnometerminal" />
   <img src="https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Ettercap-1e1e1e?style=flat&logoColor=white&logo=gnu" />
@@ -47,13 +53,12 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔐 [passgen](https://github.com/Paarth1809/passgen) | Simple CLI-based password generator | `Python` |
-| 🛡️ [Recon-automation](https://github.com/Paarth1809/Recon-automation) | Automates full recon workflow: subdomain enumeration, port scan, nmap, searchsploit, aquatone & notifications | `Python`, `Bash` :contentReference[oaicite:2]{index=2} |
-| 🌐 Portfolio Website (Coming Soon) | My personal portfolio made in React | `React.js`, `CSS`, `Netlify` |
-
+| 🛡️ [Recon-automation](https://github.com/Paarth1809/Recon-automation) | Automates recon: subdomains, port scan, nmap, aquatone, exploits, alerts | `Python`, `Bash` |
+| 🌐 Portfolio Website (Coming Soon) | My personal portfolio built with React | `React.js`, `CSS`, `Netlify` |
 
 ---
 
-## 🔥 GitHub Stats & Streak
+## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paarth1809&show_icons=true&theme=tokyonight" height="180" />
