@@ -53,7 +53,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Paarth1809&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Paarth1809&color=blue&style=flat-square)
-
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Paarth1809&theme=tokyonight)](https://git.io/streak-stats)
