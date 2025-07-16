@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Parth+Srivastava;Cybersecurity+%7C+Web+Dev+Enthusiast;Welcome+to+my+GitHub!+💻" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Gif" />
+</p>
+
 <h1 align="center"><b>Hi, I'm Parth Srivastava 👋</b></h1>
 
 <p align="center">
-  🎓 B.Tech CSE (Cyber Security) | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Developer  
+  🎓 B.Tech CSE (Cyber Security) | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Web Developer  
   <br>
-  🚀 Focused on building, breaking, and creating awesome stuff on the internet
+  🔍 Passionate about Hacking, Security Research & Building Useful Tools
 </p>
 
 ---
@@ -24,9 +32,23 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,bash" />
-  <img src="https://skillicons.dev/icons?i=nmap,wireshark,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,bash,linux,vscode,github" />
+  <br>
+  <img src="https://img.shields.io/badge/Nmap-00599C?style=flat&logoColor=white&logo=gnometerminal" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ettercap-1e1e1e?style=flat&logoColor=white&logo=gnu" />
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=flat&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 [passgen](https://github.com/Paarth1809/passgen) | Simple CLI-based password generator | `Python` |
+| 🛡️ Recon Automation Tool (Coming Soon) | Automates OSINT & subdomain recon tasks | `Python`, `Bash` |
+| 🌐 Portfolio Website (Coming Soon) | My personal portfolio made in React | `React.js`, `CSS`, `Netlify` |
 
 ---
 
@@ -56,21 +78,3 @@
 ---
 
 > 💬 “Stay curious, stay secure.” — Parth Srivastava
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Parth+Srivastava;Cybersecurity+%7C+Web+Dev+Enthusiast;Welcome+to+my+GitHub!+💻" />
-</p>
-
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔐 [passgen](https://github.com/Paarth1809/passgen) | A simple and fast random password generator built in Python | `Python` |
-| 🛡️ [Recon Automation Tool](#) | Automates information gathering from multiple sources | `Python`, `Bash`, `OSINT` |
-| 🌐 [Portfolio Website](#) | Personal portfolio made using ReactJS (Coming Soon) | `React.js`, `CSS`, `Netlify` |
