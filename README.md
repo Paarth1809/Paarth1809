@@ -56,3 +56,21 @@
 ---
 
 > 💬 “Stay curious, stay secure.” — Parth Srivastava
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Parth+Srivastava;Cybersecurity+%7C+Web+Dev+Enthusiast;Welcome+to+my+GitHub!+💻" />
+</p>
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 [passgen](https://github.com/Paarth1809/passgen) | A simple and fast random password generator built in Python | `Python` |
+| 🛡️ [Recon Automation Tool](#) | Automates information gathering from multiple sources | `Python`, `Bash`, `OSINT` |
+| 🌐 [Portfolio Website](#) | Personal portfolio made using ReactJS (Coming Soon) | `React.js`, `CSS`, `Netlify` |
