@@ -61,8 +61,13 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paarth1809&show_icons=true&theme=tokyonight" height="180" style="margin-right: 10px;" />
-  <img src="https://streak-stats.demolab.com?user=Paarth1809&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" style="margin-left: 10px;" />
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Paarth1809&show_icons=true&theme=tokyonight" height="180" />
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://streak-stats.demolab.com?user=Paarth1809&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  </span>
 </p>
 
 
