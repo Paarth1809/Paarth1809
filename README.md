@@ -1,47 +1,61 @@
-### Hey there, I'm Parth Srivastava 👋
+<h1 align="center"><b>Hi, I'm Parth Srivastava 👋</b></h1>
 
-🎓 B.Tech CSE (Cyber Security) | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast  
-📍 India | 🎯 Focused on building, breaking & creating cool things on the internet
-
----
-
-#### 👨‍💻 Domains I Work In:
-
-- ⚔️ **Cybersecurity**
-  - Network Scanning (Nmap, Wireshark)
-  - Threat Hunting & MITM (Ettercap, Burp Suite)
-  - Phishing Simulation & Recon Automation
-  - SOC tasks: log analysis, brute-force detection, malware triage
-
-- 🌐 **Full-Stack Web Development**
-  - Frontend: `HTML`, `CSS`, `JavaScript`, `React.js`
-  - Backend: `Node.js`, `Express`, `MongoDB`
-  - Focus: Responsive design, clean UI, and secure APIs
+<p align="center">
+  🎓 B.Tech CSE (Cyber Security) | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Developer  
+  <br>
+  🚀 Focused on building, breaking, and creating awesome stuff on the internet
+</p>
 
 ---
 
-#### 📈 Currently:
-- 🤖 Learning advanced SOC analysis & automation
-- 🚀 Building security tools & full-stack projects
-- 📚 Reading: *Nmap Network Scanning*, *Wireshark 101*
+## 🚀 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parthsrivastava03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Paarth1809" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-#### 🛠️ Projects
+## 🧰 Languages & Tools
 
-- 🔐 [`passgen`](https://github.com/Paarth1809/passgen) – Simple Password Generator
-- 🧠 More projects in cybersec & web dev coming soon...
-
----
-
-#### 📫 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthsrivastava03/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paarth1809)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,bash" />
+  <img src="https://skillicons.dev/icons?i=nmap,wireshark,linux,vscode,github" />
+</p>
 
 ---
 
-> “Stay curious, stay secure.” 🧠🔐  
+## 🔥 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paarth1809&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Paarth1809&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Paarth1809&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paarth1809&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
+---
+
+> 💬 “Stay curious, stay secure.” — Parth Srivastava
 
 
 ### 📊 GitHub Stats
