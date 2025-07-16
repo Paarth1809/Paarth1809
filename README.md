@@ -42,3 +42,8 @@
 ---
 
 > “Stay curious, stay secure.” 🧠🔐  
+
+
+### 📊 GitHub Stats
+
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paarth1809&show_icons=true&theme=tokyonight)
