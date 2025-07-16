@@ -47,8 +47,9 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔐 [passgen](https://github.com/Paarth1809/passgen) | Simple CLI-based password generator | `Python` |
-| 🛡️ Recon Automation Tool (Coming Soon) | Automates OSINT & subdomain recon tasks | `Python`, `Bash` |
+| 🛡️ [Recon-automation](https://github.com/Paarth1809/Recon-automation) | Automates full recon workflow: subdomain enumeration, port scan, nmap, searchsploit, aquatone & notifications | `Python`, `Bash` :contentReference[oaicite:2]{index=2} |
 | 🌐 Portfolio Website (Coming Soon) | My personal portfolio made in React | `React.js`, `CSS`, `Netlify` |
+
 
 ---
 
