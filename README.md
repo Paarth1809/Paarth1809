@@ -56,14 +56,3 @@
 ---
 
 > 💬 “Stay curious, stay secure.” — Parth Srivastava
-
-
-### 📊 GitHub Stats
-
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paarth1809&show_icons=true&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paarth1809&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Paarth1809&color=blue&style=flat-square)
