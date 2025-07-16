@@ -15,7 +15,7 @@
 
   </td>
   <td width="35%">
-    <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="250" alt="Hacking Animation" />
+    <img src="https://media.giphy.com/media/5YgvUvKvDiQVUdZxLX/giphy.gif" width="250" alt="Cyberpunk terminal animation" />
   </td>
 </tr>
 </table>
